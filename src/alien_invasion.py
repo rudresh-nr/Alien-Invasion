@@ -15,6 +15,7 @@ def run_game():
     # light gray background
     bgcolor = (230, 230, 230)  
 
+    
     #start the main loop for the game
     while True:
         #watch for keyboard and mouse events
